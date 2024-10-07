@@ -7,7 +7,7 @@ toolchain go1.23.0
 
 require (
 	github.com/buaazp/fasthttprouter v0.1.1
-	github.com/getkin/kin-openapi v0.127.0
+	github.com/getkin/kin-openapi v0.128.0
 	github.com/gorilla/mux v1.8.1
 	github.com/goxrp/go-rippled v0.8.3
 	github.com/goxrp/ripple-network v0.1.6
